@@ -7,6 +7,7 @@ erlang-hello-world
 - [Erlang -- erl](https://erlang.org/doc/man/erl.html)
 - [Erlang -- erlc](https://erlang.org/doc/man/erlc.html)
 - [All you wanted to know about the HiPE compiler(but might have been afraid to ask)](http://erlang.org/workshop/2003/paper/p36-sagonas.pdf)
+- [Concurrency in Go vs Erlang - DEV Community](https://dev.to/pancy/concurrency-in-go-vs-erlang-595a)
 
 ### TODO
 - add again
