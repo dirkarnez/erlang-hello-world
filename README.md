@@ -14,4 +14,5 @@ erlang-hello-world
 
 ### Reference
 - [**WhatsApp**](https://github.com/orgs/WhatsApp/repositories?language=erlang)
+- [**skunkwerks/snappy-erlang-nif: An Erlang NIF wrapper for Google's snappy compressor/decompressor**](https://github.com/skunkwerks/snappy-erlang-nif)
 - [meituan/geoip-server: Backend-free Persistent GeoIP Server](https://github.com/meituan/geoip-server)
