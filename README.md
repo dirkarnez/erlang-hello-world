@@ -8,7 +8,8 @@ erlang-hello-world
 - [Erlang -- erlc](https://erlang.org/doc/man/erlc.html)
 - [All you wanted to know about the HiPE compiler(but might have been afraid to ask)](http://erlang.org/workshop/2003/paper/p36-sagonas.pdf)
 - [Concurrency in Go vs Erlang - DEV Community](https://dev.to/pancy/concurrency-in-go-vs-erlang-595a)
-
+- OTP
+  - [erlang/otp: Erlang/OTP](https://github.com/erlang/otp)
 ### TODO
 - add again
 
